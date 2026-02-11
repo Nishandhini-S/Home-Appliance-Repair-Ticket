@@ -1,4 +1,4 @@
-# HOME APPLIANCE REPAIR TICKET & TECHNICIAN VISIT SCHEDULING SYSTEM
+## HOME APPLIANCE REPAIR TICKET & TECHNICIAN VISIT SCHEDULING SYSTEM
 
 The Home Appliance Repair Ticket & Technician Visit Scheduling System is a console-based Java application built using JDBC that allows a home appliance service company to:
 
